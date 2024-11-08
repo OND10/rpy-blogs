@@ -1,0 +1,8 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore database file
+backend/db.sqlite3
+
+# Ignore migration files
+backend/api/migrations/
